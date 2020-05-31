@@ -1,20 +1,4 @@
 theme: jekyll-theme-architect
- * @name         Reborn
- * @description  Phoenix Theme Bundle: Transparent, fully customizable theme with multiple addons
- * @author       MonsterDev
- * @version      1.0
- * @source       https://github.com/monstrousdev/themes
- * @website      https://discord.gg/TeRQEPb
- */
-
-/* IMPORT CSS FROM GITHUB */
-@import "https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css";
-/*
-===== IMPORTANT =====
-CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
-
-Registered: Black Box Theme
-
 ===== CUSTOMIZABLE COLORS AND IMAGES =====
 */
 :root { 
